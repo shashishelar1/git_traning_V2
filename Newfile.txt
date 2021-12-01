@@ -1,1 +1,5 @@
-Just For Practice.
+Kubernetes is an open-source container management system developed by Google and made available to the public in June 2014. The goal is to make deploying and managing complex distributed systems easier for developers interested in Linux containers. It was designed by Google engineers experienced with writing applications that run in a cluster.
+
+Kubernetes—or K8s as it is commonly called—was the third container cluster manager developed by Google, following internal-use only Borg and Omega. Similar to Omega, K8s has improved core scheduling architecture and a shared persistent store at its core. It differs from Omega in that the store is not exposed directly to trusted control-plane components but accessed through a REST API. Kubernetes APIs that process REST operations are similar to other APIs.
+
+In 2015 the Linux Foundation and Google joined forces to form the Cloud Native Computing Foundation (CNCF) and Kubernetes was donated as a seed technology. A stable release of K8s was launched in December, 2017.
