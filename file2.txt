@@ -1,0 +1,5 @@
+5. git commit
+
+This one is probably the most used Git command. After changes are done locally, you can save them by “committing” them. A commit is like local a snapshot of the current state of the branch, to which you can always come back. To create a new commit, type this command in Git Bash:
+
+git commit -m "Commit Message"
