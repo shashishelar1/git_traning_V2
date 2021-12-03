@@ -1,0 +1,6 @@
+Benefits of Git
+
+    It’s free (and open-source): you don’t need to purchase, and of course, since it is open-source, you are free to contribute to the code any time.
+    Performance: Git focuses on file content rather than on file names, which makes it faster and more reliable than other version control software.
+    Security: Git protects the code and the change history, through a cryptographically secure hashing algorithm called SHA1.
+    Widely-used: Git has become the preferred VCS tool in many great organizations.
